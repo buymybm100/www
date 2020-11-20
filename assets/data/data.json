@@ -1,0 +1,510 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Daily Forgiveness Prayer",
+              "description": "Forgiveness plays a very important role in my life, especially within my most intimate relationships. Forgiveness offers both freedom and peace of mind, yet many choose to hold on to pain, bitterness and resentment. A lack of forgiveness lies at the heart of many problems; learning to let it go, thereby releasing you from its prison, can only result in one thing—happiness.",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Active",
+              "tracks": ["Love"],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "time": "9:15 am",
+          "sessions": [
+            {
+              "name": "Read the New York Times",
+              "location": "Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Ted Miles"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Leisure"],
+              "id": "2"
+            },
+            {
+              "name": "Make Popcorn for Movie Night",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Rachel Adams"],
+              "timeStart": "9:45 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Fun"],
+              "id": "3"
+            },
+            {
+              "name": "Learn to play Beethoven's Sonata no.5",
+              "location": "Not Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Ellie Finnigan"],
+              "timeStart": "9:15 am",
+              "timeEnd": "9:30 am",
+              "tracks": ["Leisure"],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "Raise funds for Oxfam",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Elaine ", "Lionel Wall"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:15 am",
+              "tracks": ["Leisure"],
+              "id": "5"
+            },
+            {
+              "name": "Sign up for ASZ Health seminar",
+              "location": "Not Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Rachel Adams"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Health"],
+              "id": "6"
+            },
+            {
+              "name": "Rebalance Investment portfolio",
+              "location": "Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Isabella Brisbane", "Zander Schaffle"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Finances"],
+              "id": "7"
+            },
+            {
+              "name": "Chat with Gran",
+              "location": "Revoked",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Alison Cook"],
+              "timeStart": "10:45 am",
+              "timeEnd": "11:00 am",
+              "tracks": ["Relationships"],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "time": "11:00 am",
+          "sessions": [
+            {
+              "name": "Book appt for Boiler Service",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Karl Shaw", "Lionel Wall"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Misc"],
+              "id": "9"
+            },
+            {
+              "name": "Improve Excel Skills",
+              "location": "Not Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Lionel Wall", "John Brown"],
+              "timeStart": "11:30 am",
+              "timeEnd": "11:50 am",
+              "tracks": ["Work"],
+              "id": "10"
+            },
+            {
+              "name": "Meditate for half an hour",
+              "location": "Revoked",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Rachel Adams", "Zander Schaffle"],
+              "timeStart": "11:30 am",
+              "timeEnd": "12:00 pm",
+              "tracks": ["Health"],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "time": "12:00 pm",
+          "sessions": [
+            {
+              "name": "Lunch with Gran",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet",
+              "timeStart": "12:00 pm",
+              "timeEnd": "1:00 pm",
+              "tracks": ["Love"],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "time": "1:00 pm",
+          "sessions": [
+            {
+              "name": "Be more effective at work",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Paul Sanders"],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Work"],
+              "id": "13"
+            },
+            {
+              "name": "Submit expense claims",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["John Brown"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "1:30 pm",
+              "tracks": ["Work"],
+              "id": "14"
+            },
+            {
+              "name": "Write a note to Gran",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Molly Morgan", "Doug Andersen"],
+              "timeStart": "1:30 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Relationships"],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "time": "2:00 pm",
+          "sessions": [
+            {
+              "name": "Plan family dinner",
+              "location": "Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Doug Andersen", "Alison Cook"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:30 pm",
+              "tracks": ["Relationships"],
+              "id": "16"
+            },
+            {
+              "name": "Renew Travel card",
+              "location": "Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Josh Dougal"],
+              "timeStart": "2:30 pm",
+              "timeEnd": "2:45 pm",
+              "tracks": ["Work"],
+              "id": "17"
+            },
+            {
+              "name": "Train for the London Marathon",
+              "location": "Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Josh Dougal"],
+              "timeStart": "2:45 pm",
+              "timeEnd": "5:45 pm",
+              "tracks": ["Health"],
+              "id": "18"
+            },
+            {
+              "name": "Budget for cycle trip to Australia",
+              "location": "Not Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Isabella Brisbane", "Ellie Finnigan"],
+              "timeStart": "2:45 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Finances"],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "sessions": [
+            {
+              "name": "Make Health a top priority",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Ted Miles"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Health"],
+              "id": "20"
+            },
+            {
+              "name": "Yoga in the States",
+              "location": "Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Rachel Adams"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Health"],
+              "id": "21"
+            },
+            {
+              "name": "Read up about Archimedes",
+              "location": "Done",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Molly Morgan"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:55 pm",
+              "tracks": ["Relationships"],
+              "id": "22"
+            },
+            {
+              "name": "Refurbish dining chairs",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Paul Sanders"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:35 pm",
+              "tracks": ["Leisure"],
+              "id": "23"
+            },
+            {
+              "name": "Climb Mt.Kimilanjaro",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Karl Shaw"],
+              "timeStart": "3:30 am",
+              "timeEnd": "3:45 am",
+              "tracks": ["Misc"],
+              "id": "24"
+            },
+            {
+              "name": "Daily Yoga Practice",
+              "location": "Active",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus ac magna ultricies, et aliquet ante vestibulum. Cras iaculis turpis molestie suscipit imperdiet. Integer luctus at libero vitae semper.",
+              "speakerNames": ["Isabella Brisbane"],
+              "timeStart": "3:35 am",
+              "timeEnd": "3:50 am",
+              "tracks": ["Health"],
+              "id": "25"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "speakers": [
+    {
+      "name": "Doug Andersen",
+      "profilePic": "/assets/img/flaticons/boy-1.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Burt's interests include poetry, dashing space heroes, and lions.",
+      "title": "Empowering Context lorem ipsum",
+      "location": "Everywhere",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "1"
+    },
+    {
+      "name": "Alison Cook",
+        "profilePic": "/assets/img/flaticons/girl-1.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Charlie's interests include country music, plush animals, pyrotechnics, and skeletons.",
+      "title": "Lorem ipsum Empowering Context",
+      "location": "Everywhere",
+      "email": "charlie@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "2"
+    },
+    {
+      "name": "Josh Dougal",
+      "profilePic": "/assets/img/flaticons/boy-2.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Donald's interests include carpentry, superheroes, merpeople, and glam rock.",
+      "title": "Empowering Context Lorem ipsum",
+      "location": "Everywhere",
+      "email": "donald@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "3"
+    },
+    {
+      "name": "Zander Schaffle",
+      "profilePic": "/assets/img/flaticons/man-1.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Eva's interests include ants, seashells, and cupcakes.",
+      "title": "Empowering Context lorem ipsum",
+      "location": "Everywhere",
+      "email": "eva@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "4"
+    },
+    {
+      "name": "Ellie Finnigan",
+        "profilePic": "/assets/img/flaticons/girl-2.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Ellie's interests include pocket watches, pool, hand fans, and ninjas.",
+      "title": "Lorem Ipsum Empowering Context",
+      "location": "Everywhere",
+      "email": "ellie@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "5"
+    },
+    {
+      "name": "John Brown",
+        "profilePic": "/assets/img/flaticons/man-2.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Gino's interests include candy-making, unicorns, and birdhouses.",
+      "title": "Empowering Lorem Ipsum Context",
+      "location": "Everywhere",
+      "email": "gino@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "6"
+    },
+    {
+      "name": "Isabella Brisbane",
+        "profilePic": "/assets/img/flaticons/girl-3.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Isabella's interests include crystals, architecture, and candle-making.",
+      "title": "Lorem Ipsum",
+      "location": "Everywhere",
+      "email": "isabella@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "7"
+    },
+    {
+      "name": "Karl Shaw",
+        "profilePic": "/assets/img/flaticons/man-3.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Karl's interests include skiing, jewelry, and needlepoint.",
+      "title": "Lorem Ipsum Advocate",
+      "location": "Everywhere",
+      "email": "karl@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "8"
+    },
+    {
+      "name": "Lionel Wall",
+      "profilePic": "/assets/img/flaticons/man-4.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Lionel's interests include lizards and mathematics.",
+      "title": "Empowering Context Lorem Ipsum",
+      "location": "Everywhere",
+      "email": "lionel@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "9"
+    },
+    {
+      "name": "Molly Morgan",
+      "profilePic": "/assets/img/flaticons/girl-4.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Molly's interests include werewolves and magic.",
+      "title": "Lorem Ipsum Context",
+      "location": "Everywhere",
+      "email": "molly@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "10"
+    },
+    {
+      "name": "Paul Sanders",
+      "profilePic": "/assets/img/flaticons/man-5.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Paul's interests include maps, whales, and dragons.",
+      "title": "Empowering Context Ipsumer",
+      "location": "Everywhere",
+      "email": "paul@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "11"
+    },
+    {
+      "name": "Rachel Adams",
+      "profilePic": "/assets/img/flaticons/girl-5.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Rachel's interests include clowns, skeletons, and yo-yos.",
+      "title": "Empowering Context Ip sumer",
+      "location": "Everywhere",
+      "email": "rachel@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "12"
+    },
+    {
+      "name": "Ted Miles",
+      "profilePic": "/assets/img/flaticons/man-1.png",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Ted's interests include butterflies, skiing, and cupcakes.",
+      "title": "Empowering Context Lorem Ipsum",
+      "location": "Everywhere",
+      "email": "ted@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "13"
+    }
+  ],
+
+  "map": [
+    {
+      "name": "Monona Terrace Convention Center",
+      "lat": 43.071584,
+      "lng": -89.38012,
+      "center": true
+    },
+    {
+      "name": "Leisure HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Afterparty - Brocach Irish Pub",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ],
+
+  "tracks": [
+    {
+      "name": "Health",
+      "icon": "thumbs-up"
+    },
+    {
+      "name": "Work",
+      "icon": "document"
+    },
+    {
+      "name": "Love",
+      "icon": "heart"
+    },
+    {
+      "name": "Leisure",
+      "icon": "bicycle"
+    },
+    {
+      "name": "Fun",
+      "icon": "game-controller"
+    },
+    {
+      "name": "Finances",
+      "icon": "cash"
+    },
+    {
+      "name": "Relationships",
+      "icon": "cog"
+    },
+    {
+      "name": "Misc",
+      "icon": "construct"
+    }
+  ]
+}
